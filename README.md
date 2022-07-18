@@ -28,3 +28,4 @@ Contient le certificat qui nous permet de nous connecter à la base de donnée a
 
 ## Repertoire Viz
 Vous trouver le fichier de visualisation powerBI
+vous retrouverez ce repertoire ici -> https://drive.google.com/drive/folders/1TWgx-kFXyeqCLXHWpCBpkXnWWPXtqdsI?usp=sharing
