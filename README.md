@@ -18,6 +18,7 @@ Voir (requests.ipynb)
 
 ## Repertoire Data_wheather
 Contient le csv de chaque ville, et on a l'historique de donnée de météo de 2009 à 2022 pour chaque ville
+vous retrouverez ce repertoire ici -> https://drive.google.com/drive/folders/1AlaVKYZtypUMD7iwp9pcA6J2Z7gFuwOo?usp=sharing
 
 ## Fichier Data_wheather.csv 
 Est un merge de tous les fichiers se trouvant dans le repertoire Data_wheather
